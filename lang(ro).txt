@@ -1,0 +1,119 @@
+1    Logare   
+2 Username
+3   Parola
+4 Inregistrare
+5 Contul a fost creat
+6 Versiune
+7 Maze  Game
+8    Cont
+9 Load  Game
+10 Step'n  Jump
+11 Lotto
+12 Score  Table
+13  Setari 
+14 Iesire
+15 Esti pe al
+16 loc din cei
+17 inregistrati!
+18 Ai avansat
+19 nivel!
+20 nivele!
+21 Inapoi
+22  Bani
+23 2 x Enter sa Selectezi
+24 Enter
+25 Items
+26  Deplasare
+27 Numere
+28 Nr. Norocoase
+29 Scor
+30 Colecteaza
+31 Salvezi harta?
+32 Scrie
+33 sa salvezi
+34 nu salvezi
+35 anulezi
+36 Alegere
+37 Harta este salvata in
+38 Harta este anulata
+39 Harta nu este salvata
+40 Numele Jocului
+41 EROARE
+42 Lungimea Matricei
+43     Pozitia Ta
+44 Campuri
+45 Stalpi
+46 Chei
+47   Usa
+48 NU
+49 DA
+50 Construieste o matrice de n linii si m coloane
+51   Linii
+52 Coloane
+53 Alege-ti pozitia
+54 Creeaza stalpii (n=0 & m=0 sa termini)
+55 Plaseaza iesirea
+56 Numarul cheilor care deschid usa
+57 Plaseaza cheile
+58 Se creeaza harta
+59 Se incarca textura
+60 Se testeaza jocul
+61 Usa DESCHISA
+62 Premium
+63 Jocul s-a terminat!
+64 Ai castigat!
+65 Ai abandonat jocul!
+66 Nu te mai poti misca in nici o directie!
+67 Nota
+68 BONUS
+69 TOTAL
+70 Load Game
+71 Usor
+72 Greu
+73 Avansat
+74 Jocul Precedent
+75  Spatiul
+76 Maze Game
+77 Jucatorul  trebuie  sa  evadeze  din
+78 labirint, el  trebuie  sa  gasesca  toate
+79 cheile  si in final sa  deschida usa, iar
+80 astfel va fi eliberat.
+81   Limba  
+82 Controale
+83 Jucatorul trebuie sa se deplaseze in
+84 sus pasind pe trepte. El va avea  un timp
+85 de 90 de  secunde sa  ajunga cat mai sus,
+86 si 5 nivele care il vor incurca.
+87 Reseteaza Banii
+88 Este sansa ta de a-ti inmulti banii,
+89 daca ai noroc :)          
+90 Afla mai mult
+91 www.ekonlplus.com
+92 Enjoy!
+93 Mergi in SUS
+94 Mergi in STANGA
+95 Mergi in DREAPTA
+96 Mergi in JOS
+97 Pozitia Ta   
+98 Cheie
+99 DESCHISA Usa
+100 INCHISA Usa
+101 ENTER - Iesi din joc  
+102 Vrei sa Iesi din joc / Delogare ?
+103 IESIRE
+104 DELOGARE
+105 SCOR 
+106 NIVEL
+107 TIMP 
+108 S-a scurs timpul!
+109    Ai cazut!
+110  Pasi
+111 Nivel
+112 Timp
+113 Logare      
+114 Acces Acceptat!
+115 Username sau parola gresita!
+116  Cont
+117  Chei
+118 Campuri
+119 Cont   

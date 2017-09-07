@@ -1,0 +1,119 @@
+1    Login    
+2 Username
+3 Password
+4   Register  
+5 The account was created!
+6 Version
+7 Maze  Game
+8 Account
+9 Load  Game
+10 Step'n  Jump
+11 Lotto
+12 Score  Table
+13 Settings
+14  Exit
+15 Your are on the
+16 place of
+17 registered!
+18 You've advanced
+19 level!
+20 levels!
+21 Back
+22 Money
+23 Double Enter to Select
+24 Enter
+25 Items
+26 Use Arrows
+27 Numbers
+28 Luky Nr
+29 Score
+30 Collect
+31 Save the map?
+32 Type
+33 to save
+34 don't save
+35 discard
+36 Choice
+37 Your map is saved in
+38 Your map was canceled
+39 Your map wasn't saved
+40 Game's Name
+41 ERROR
+42 Matrix Size
+43 Your Position
+44 Fields
+45 Poles
+46 Keys
+47 Door
+48 NO
+49 YES
+50 Build a matrix of n rows and m columns
+51 Lines
+52  Rows
+53 Choose your position
+54 Create the poles (n=0 & m=0 to finish)
+55 Place the exit door
+56 Number of keys which open the door
+57 Place the keys
+58 Creating the map
+59 Loading the texture
+60 Testing the game
+61 Door OPEN
+62 Premium
+63 The game is over!
+64 You won!
+65 You abandoned the game!
+66 You can't move in any direction!
+67 Mark
+68 BONUS
+69 TOTAL
+70 Load Game
+71 Easy
+72 Hard
+73 Advance
+74  Previous Game 
+75   Space 
+76 Maze Game
+77 The player must  escape the maze, he
+78 have to  find and take all the  keys, and
+79 finally  to open  the  door  so that  the
+80 player will be free.  
+81 Language
+82 Controls
+83 The player must jump from gradual to
+84 gradual so as he reach up and up. He will
+85 have a  time of 90  seconds and  5 stages
+86 which will tangle him.          
+87 Coins  Reset
+88 It's  your change  to multiply  your
+89 money, if you have luky :)
+90 Find more on:
+91 www.ekonlplus.com
+92 Enjoy!
+93 Move UP     
+94 Move LEFT      
+95 Move RIGHT      
+96 Move DOWN   
+97 Your position
+98 Key  
+99 OPEN Door   
+100 CLOSE Door 
+101 ENTER - Abort the game
+102 Dou you want to Exit / Log Out?
+103 EXIT
+104 LOG OUT
+105 SCORE
+106 LEVEL
+107 TIME
+108 Time's up!
+109 You fell down!
+110 Steps
+111 Level
+112 Time
+113 Please Login
+114 Acces Granted!
+115 Wrong username or password!
+116 Account
+117 Keys
+118  Fields
+119 Account

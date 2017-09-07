@@ -1,0 +1,35 @@
+/************************************
+ *  Ekon LPlus 2013 - 2016          *
+ *  Version 1.6.0508                *
+ *  EN/RO Version                   *
+ *  Moldovan Catalin	            *
+ ************************************/
+Ekon LPlus (EL+) V1.5.0508
+Beta Version
+2013
+
+Language: Romana, Engelza
+Last Version Date: 08.05.2016
+
+ SITF: 3248 (+18 LD)
+Files: 19 items
+ Size: 3.05 / 1.29 MB
+
+-/-----------------------------------/-
+
+~ Maze Game ~
+
+	Jucatorul trebuie sa evadeze din labirint, el trebuie sa gasesca toate cheile si in final sa deschida usa, iar astfel va fi eliberat.
+	The player must  escape the maze, he have to  find and take all the  keys, and finally  to open  the  door  so that  the player will be free.
+
+~ Step'n Jump ~
+
+	Jucatorul trebuie sa se deplaseze in sus pasind pe trepte. El va avea un timp de 90 de secunde sa ajunga cat mai sus, si 5 nivele care il vor incurca.
+	The player must jump from gradual to gradual so as he reach up and up. He will have a  time of 90  seconds and  5 stages which will tangle him. At the  end of each  game, you  will win some  coins, depending on your steps, time etc and you can unlock some bonuses.
+
+~ Lotto ~
+
+	Este sansa jucatorului de a-si inmulti banii, daca are noroc :)
+	It's your change to multiply your money, if you have luky :)
+
+-/-----------------------------------/-
